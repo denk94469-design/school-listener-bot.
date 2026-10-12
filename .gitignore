@@ -1,0 +1,5 @@
+school_feedback.sqlite3
+.env
+.venv/
+__pycache__/
+*.pyc
